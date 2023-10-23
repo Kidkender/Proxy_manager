@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ManagerProxy2.props" />
+</Project>
