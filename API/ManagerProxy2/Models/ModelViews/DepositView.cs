@@ -8,8 +8,9 @@
 		public double TotalMoney { get; set; }
 		public string? Email { get; set; }
 		public int UserId { get; set; }
-		public string Username { get; set; }
+		public string? Username { get; set; }
 		public string? Name { get; set; }
+		public DateTime Created { get; set; }
 
 	}
 }

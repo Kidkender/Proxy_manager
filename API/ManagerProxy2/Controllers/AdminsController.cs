@@ -118,7 +118,7 @@ namespace ManagerProxy2.Controllers
                 _unit.Admins.Remove(model);
                 _unit.Complete();
 
-                var wallet = await _unit.Wallets.GetByUserId(model.UserId);
+                var wallet = _unit.Wallets.GetWalletByUserId(model.UserId);
                 _unit.Wallets.Remove(wallet);
                 _unit.Complete();
 

@@ -15,6 +15,6 @@ namespace ManagerProxy2.Models.Entity
 		[Required]
 		public double Money { get; set; }
 		public string? Note { get; set; }
-
+		public DateTime CreatedAt { get; set; } = DateTime.Now;
 	}
 }

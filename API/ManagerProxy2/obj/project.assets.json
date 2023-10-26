@@ -2323,11 +2323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\K-Project\\ManagerProxy2\\ManagerProxy2\\ManagerProxy.csproj",
+      "projectUniqueName": "K:\\K-Project\\GitManager2\\API\\ManagerProxy2\\ManagerProxy.csproj",
       "projectName": "ManagerProxy",
-      "projectPath": "K:\\K-Project\\ManagerProxy2\\ManagerProxy2\\ManagerProxy.csproj",
+      "projectPath": "K:\\K-Project\\GitManager2\\API\\ManagerProxy2\\ManagerProxy.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "K:\\K-Project\\ManagerProxy2\\ManagerProxy2\\obj\\",
+      "outputPath": "K:\\K-Project\\GitManager2\\API\\ManagerProxy2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

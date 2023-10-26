@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TQiHOja/Cgi8NsWVLLIv2SPHUsX20a/+7YvhtGfJvqO0irLzLkWSnjOQLoNSE8xCFPCE2yq8U0FRy+V57lJdw==",
+  "dgSpecHash": "f7ZR+Ld5PV80LEuVOV0q2roO+qll9sn+7AgTxN/eUVRHWq5t6QbbuIMRtw5l6xEBjeqczJmoJdsZymHNMB926g==",
   "success": true,
-  "projectFilePath": "K:\\K-Project\\ManagerProxy2\\ManagerProxy2\\ManagerProxy.csproj",
+  "projectFilePath": "K:\\K-Project\\GitManager2\\API\\ManagerProxy2\\ManagerProxy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

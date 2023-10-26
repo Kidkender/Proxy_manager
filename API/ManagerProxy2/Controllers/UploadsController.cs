@@ -47,7 +47,7 @@ namespace ManagerProxy2.Controllers
         {
             try
             {
-                var physicalPath = _env.ContentRootPath + "/Photos/" + filename;
+                var physicalPath = _env.ContentRootPath + "/Files/" + filename;
                 System.IO.File.Delete(physicalPath);
 
                 return new JsonResult("Xóa File thành công");

@@ -80,7 +80,7 @@ namespace ManagerProxy2.Controllers
                 if (tasks == null)
                     return BadRequest("User not exist");
 
-				var wallet = await _unit.Wallets.GetByUserId(tasks.Id);
+				var wallet = _unit.Wallets.GetWalletByUserId(tasks.Id);
 				_unit.Wallets.Remove(wallet);
 				_unit.Complete();
 
